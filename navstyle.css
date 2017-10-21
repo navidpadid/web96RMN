@@ -151,6 +151,20 @@ div{
     transition: color .15s ease;
 }
 
+.fb-appbar-more-actions-menu {
+    margin: 0;
+    padding: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
 
 .fb-appbar-login-area {
     -webkit-box-flex: 0 0 auto;
@@ -166,9 +180,4 @@ div{
     -webkit-align-items: stretch;
     align-items: stretch;
 }
-
-.gb_vc {
-    color: black;
-}
-
 
