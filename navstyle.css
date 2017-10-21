@@ -1,0 +1,167 @@
+body{
+    margin: 0%;
+    border: 0%;
+}
+div{
+    display: block;
+}
+.header{
+    position: relative;
+    display: block;
+    -webkit-box-flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background-color: #0288d1;
+    -webkit-box-shadow: 0 3px 4px 0 rgba(0,0,0,0.14), 0 3px 3px -2px rgba(0,0,0,0.12), 0 1px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,0.14), 0 3px 3px -2px rgba(0,0,0,0.12), 0 1px 8px 0 rgba(0,0,0,0.2);
+    z-index: 50;
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+}
+.headerIn{
+    height: 48px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+}
+
+.left{
+    -webkit-align-self: stretch;
+    align-self: stretch;
+    position: relative;
+    margin-right: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.logoBtn{
+    background-color: transparent!important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    padding: 0!important;
+    margin: 0!important;
+    min-width: 0;
+    width: auto;
+    height: 48px;
+}
+
+.logo{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+}
+#logoIco{
+    position: relative;
+    margin-left: 20px;
+    width: 28px;
+    height: 28px;
+    top: -1px;
+}
+#firebaseNamecon{
+    margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+#firebaseName{
+    width: 82px;
+    height: 18px;
+    margin-left: 12px;
+}
+
+#flex{
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.optionRight{
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-align-self: stretch;
+    align-self: stretch;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    min-width: 0;
+    overflow: hidden;
+    padding: 0;
+}
+#viewOnly{
+    -webkit-align-self: center;
+    align-self: center;
+    background: #03a9f4;
+    margin-left: 16px;
+    margin-right: 8px;
+}
+
+#GoTo{
+    -webkit-box-flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background-color: transparent!important;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: rgba(255,255,255,.7);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0;
+    text-decoration: initial;
+    text-transform: none;
+    white-space: nowrap;
+    padding: 0 8px!important;
+    margin: 0;
+    max-width: 200px;
+    min-width: 0;
+    outline: 0;
+}
+
+#GoTo:hover{
+    color: white;
+    -webkit-transition: color .15s ease;
+    transition: color .15s ease;
+}
+
+.fb-appbar-more-actions-menu {
+    margin: 0;
+    padding: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
