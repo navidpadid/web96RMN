@@ -1,0 +1,204 @@
+
+#container{
+    margin: 0;
+    border: 0;
+}
+#container img {
+    width: 100%;
+    height: 100%;
+}
+#container img {
+    width: 100%;
+    height: 100%;
+}
+
+.divs {
+    display: inline-block;
+    padding: 100px;
+    margin: 25px;
+}
+
+
+
+
+@media screen and (max-width: 550px){
+    #GoTo{
+        display: none;
+    }
+    #viewOnly{
+        display: none;
+    }
+
+}
+#wrapper_1, #wrapper_2, #wrapper_3, #wrapper_4, #wrapper_5{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+#anal, #store, #testlab, #config, #mess{
+    margin-left: 25px;
+    width: 300px;
+    float: left;
+    background-color: white;
+    box-shadow: 1px 1px 1px #888888;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-bottom: 25px;
+}
+#authen, #host, #crash, #dynamic, #awrds{
+    margin-left: 25px;
+    margin-bottom: 25px;
+    float: left;
+    width: 300px;
+
+    background-color: white;
+    box-shadow: 1px 1px 1px #888888;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#data, #cloud, #notif, #amb, #app{
+    margin-left: 25px;
+    margin-bottom: 25px;
+    float: left;
+    width: 300px;
+
+
+    background-color: white;
+    box-shadow: 1px 1px 1px #888888;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+
+#analytics_img, #authen_img, #data_img, #store_img , #host_img, #cloud_img, #testlab_img, #crash_img, #notif_img,
+#config_img, #dynamic_img, #amb_img, #mess_imges, #awrds_img, #app_img{
+
+    position: relative;
+}
+
+#analytics_txt, #authen_txt, #data_txt,#store_txt, #host_txt , #cloud_txt, #testlab_txt, #crash_txt, #notif_txt,
+#config_txt, #dynamic_txt, #amb_txt, #mess_txt, #awrds_txt, #app_txt{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 120%;
+
+    background-color: white;
+    margin-top:-4px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left:1%;
+    padding-bottom: 1px;
+
+
+
+    position: relative;
+
+
+}
+#anal_learnMore, #authen_learnMore, #data_learnMore, #store_learnMore, #host_learnMore, #cloud_learnMore, #testlab_learnMore, #crash_learnMore,
+#notif_learnMore, #config_learnMore, #dynamic_learnMore, #amb_learnMore, #mess_learnMore, #awrds_learnMore, #app_learnMore{
+    background-color: white;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #0288D1;
+    float:left;
+
+
+
+}
+#anal_get, #authen_get, #data_get, #store_get, #host_get, #cloud_get, #testlab_get, #crash_get, #notif_get, #config_get, #dynamic_get,
+#amb_get, #mess_get, #awrds_get, #app_get{
+    font-size: large;
+    text-transform: uppercase;
+    color: #0288D1;
+    float: right;
+    cursor: pointer;
+    background-color: white;
+    margin-bottom: 10px;
+}
+#anal_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#authen_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#data_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#store_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#host_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#cloud_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#testlab_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#crash_get:hover{
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#notif_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#config_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#dynamic_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#amb_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#mess_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#awrds_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
+#app_get:hover {
+    border-radius: 1px;
+    background-color: #E0F3FC;
+    background-size: 200%;
+}
