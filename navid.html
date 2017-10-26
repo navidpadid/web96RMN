@@ -5,8 +5,12 @@
     <title>Firebase Console</title>
     <link href="navstyle.css" type="text/css" rel="stylesheet">
     <link href="riza.css" type="text/css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Stylesheets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="Stylesheets/w3.css">
+    <link href="Stylesheets/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css"/>
 </head>
-<body>
+<body style="background-color: #CFD8DC">
     <header style="position: fixed;width: 100%;margin: 0;border: 0;z-index: 100;top: 0">
         <div class="header">
             <div class="headerIn">
@@ -24,10 +28,14 @@
                 <div class="optionRight">
                     <img id="viewOnly" src="image/view">
                     <a href="#firebaseName" target="_blank" id="GoTo" title="google docs">Go to docs</a>
-
-                    <a href="#" target="_blank" class="threeDotImg" title="setting">
-                        <img src="image/threeDot.svg" class="threeDotImg" style="width: 20px;height: auto">
-                    </a>
+                    <div class="dropdown">
+                        <img src="image/threeDot.svg" class="threeDotImg" title="setting" style="width: 20px;height: auto">
+                        <div class="dropdown-content">
+                            <a href="#">Firebase docs <img src="image/cursor-512.png" style="width: 15px"></a>
+                            <hr>
+                            <a href="#">Alert suscribe</a>
+                        </div>
+                    </div>
                     <div class="fb-appbar-login-area">
                         <a class="gb_b gb_fb gb_R" aria-label="Google Account: navid malek
         (thedragonsapace@gmail.com)" href="https://accounts.google.com/SignOutOptions?hl=en&amp;continue=https://console.firebase.google.com/" role="button" tabindex="0" aria-expanded="false" dideo-checked="true"><span class="gb_ab gbii"></span>
@@ -38,13 +46,122 @@
             </div>
         </div>
     </header>
+    <div class="firebase_left_nav">
+                    <div id="scrollable">
+                        <div class="left_nav_header">
+                            <div class="flex-row-container">
+                                <div class="navbar_item">
+                                    <i class="mdi mdi-home"></i>
+                                    <span>Overview</span>
+                                </div>
+                                <div class="navbar_item " id="settings">
+                                    <i class="material-icons">settings</i>
+                                </div>
+                            </div>
 
-    <div id="container" style="background-color: #CFD8DC; margin-left: 30%; margin-top: 3.5%">
+                        </div>
+
+                        <div class="navbar_item">
+                            <i class="mdi mdi-google-analytics"></i>
+                            <span>Analytics</span>
+                        </div>
+
+                        <div class="navbar_label lbl_left">
+                            develop
+                        </div>
+
+                        <div class="navbar_item">
+                            <i class="mdi mdi-account-multiple"></i>
+                            <span>Authentication</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-dns"></i>
+                            <span>Database</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-folder-image"></i>
+                            <span>Storage</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="material-icons">public</i>
+                            <span>Hosting</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-json"></i>
+                            <span>Functions</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-checkbox-marked-outline"></i>
+                            <span>Test Lab</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="material-icons">bug_report</i>
+                            <span>Crash Reporting</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-gauge"></i>
+                            <span>Performance</span>
+                        </div>
+
+                        <div class="navbar_label lbl_left" >
+                            grow
+                        </div>
+
+                        <div class="navbar_item">
+                            <i class="mdi mdi-message-bulleted"></i>
+                            <span>Notification</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-source-branch"></i>
+                            <span>Remote Config</span>
+                        </div>
+                        <div class="navbar_item">
+                            <i class="mdi mdi-link"></i>
+                            <span>Dynamic Links</span>
+                        </div>
+
+                        <div class="navbar_label lbl_left">
+                            earn
+                        </div>
+
+                        <div class="navbar_item">
+                            <i class="mdi mdi-case-sensitive-alt"></i>
+                            <span>AdMob</span>
+                        </div>
+
+
+                    </div>
+                    <div class="left_nav_footer">
+                        <div class="spark">
+                            <div class="flex-row-container">
+                                <div class="flex-col-container">
+                                    <div class="top_label">
+                                        Spark
+                                    </div>
+                                    <div class="bottom_label">
+                                        Free $0/month
+                                    </div>
+                                </div>
+                                <div class="upgrade_button">
+                                    upgrade
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="sidebar_collapse">
+                            <i class="mdi mdi-chevron-left"></i>
+                        </div>
+                    </div>
+
+                </div>
+
+    <div id="container" style="background-color: #CFD8DC; margin-left:35%; margin-top: 3.5%">
         <br>
         <br>
         <p style="font-family: Roboto; font-size: 16px; color: rgba(0,0,0,.54); margin-left: 25px">
             Discover Firebase
         </p>
+
         <div id="wrapper_1">
             <div id="anal">
 
@@ -89,6 +206,10 @@
                 </div>
 
             </div>
+        </div>
+
+
+        <div id="wrapper_2">
             <div id="data">
                 <div id="data_img">
                     <img src="image/database.png">
@@ -108,10 +229,6 @@
                     <div id="data_get">get started</div>
                 </div>
             </div>
-        </div>
-
-        <div id="wrapper_2">
-
             <div id="store">
                 <div id="store_img">
                     <img src="image/storage.png">
@@ -131,7 +248,10 @@
                     <div id="store_get">get started</div>
                 </div>
             </div>
+        </div>
 
+
+        <div id="wrapper_3">
             <div id="host">
                 <div id="host_img">
                     <img src="image/hosting.png">
@@ -177,8 +297,8 @@
             </div>
         </div>
 
-        <div id="wrapper_3">
 
+        <div id="wrapper_4">
             <div id="testlab">
                 <div id="testlab_img">
                     <img src="image/testlab.png">
@@ -201,7 +321,6 @@
 
 
             </div>
-
             <div id="crash">
                 <div id="crash_img">
                     <img src="image/crash.png">
@@ -223,7 +342,10 @@
                 </div>
 
             </div>
+        </div>
 
+
+        <div id="wrapper_5">
             <div id="notif">
                 <div id="notif_img">
                     <img src="image/notifications.png">
@@ -245,10 +367,6 @@
                 </div>
 
             </div>
-
-        </div>
-
-        <div id="wrapper_4">
             <div id="config">
                 <div id="cinfig_img">
                     <img src="image/config.png">
@@ -271,7 +389,10 @@
 
 
             </div>
+        </div>
 
+
+        <div id="wrapper_6">
             <div id="dynamic">
                 <div id="dynamic_img">
                     <img src="image/dynamiclinks.png">
@@ -294,7 +415,6 @@
 
 
             </div>
-
             <div id="amb">
                 <div id="amb_img">
                     <img src="image/amb.png">
@@ -317,18 +437,10 @@
 
 
             </div>
-
-
-
-
-
-
-
-
         </div>
 
-        <div id="wrapper_5">
 
+        <div id="wrapper_7">
             <div id="mess">
                 <div id="mess_img">
                     <img src="image/cloudmessaging.png">
@@ -351,7 +463,6 @@
 
 
             </div>
-
             <div id="awrds">
                 <div id="awrds_img">
                     <img src="image/awrds.png">
@@ -374,7 +485,10 @@
 
 
             </div>
+        </div>
 
+
+        <div id="wrapper_8">
             <div id="app">
                 <div id="app_img">
                     <img src="image/appindexing.png">
@@ -398,14 +512,11 @@
 
             </div>
 
+    </div>
 
-
-
-
-
-
-        </div>
 
     </div>
+
+
 </body>
 </html>
