@@ -7,7 +7,6 @@ branches:
 	2)alpha
 	3)navid
 	4)reza
-	5)mahan
 
 note:
 	everyone work in their branches based on their assignment
