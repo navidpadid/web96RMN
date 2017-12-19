@@ -12,3 +12,5 @@ import registerServiceWorker from './registerServiceWorker';
 ReactDOM.render(<NavBar />, document.getElementById('heading'));
 ReactDOM.render(<LeftMenu />, document.getElementById('leftNavReact'));
 ReactDOM.render(<LeftMenuFooter />, document.getElementById('menuFooter'));
+ReactDOM.render(<App />, document.getElementById('Reza_middle'));
+
