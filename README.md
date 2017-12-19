@@ -6,7 +6,6 @@ branches:
 	1) master
 	2)navid
 	3)reza
-	4)mahan
 
 note:
 	everyone work in their branches based on their assignment
