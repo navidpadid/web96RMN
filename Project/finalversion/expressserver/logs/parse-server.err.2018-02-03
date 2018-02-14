@@ -1,0 +1,602 @@
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:31:19.763Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:31:19.765Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:31:19.769Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:31:19.770Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:31:19.823Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:31:19.823Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:31:19.824Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:56.790Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:56.817Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:56.967Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.028Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.077Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.238Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.257Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.285Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.420Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.516Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.522Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:57.663Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:58.446Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:59.139Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:59.714Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:31:59.821Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:03.107Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:06.749Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:10.250Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:19.122Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:19.123Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:19.126Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:19.126Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:25.010Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:25.011Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:25.012Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T11:32:25.012Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:40:42.133Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:40:42.141Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T11:40:42.143Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T11:40:42.144Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:40:42.196Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:40:42.197Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:40:42.197Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:41:33.599Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:41:33.599Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:41:33.600Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:41:33.632Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:41:33.633Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:41:33.637Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:41:33.640Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:41:33.651Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:41:33.652Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:41:33.652Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:53:11.468Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:53:11.468Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:53:11.473Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:53:11.473Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:53:11.488Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:53:11.488Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:53:11.489Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T11:54:34.152Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T11:54:34.153Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:54:41.856Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:54:41.857Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:54:41.858Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:54:43.812Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:54:43.813Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:54:43.825Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:54:43.827Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:54:43.833Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:54:43.834Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:54:43.834Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:58:01.873Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:58:01.875Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:58:01.876Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:58:04.122Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:58:04.123Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:58:04.124Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:58:04.125Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:58:04.133Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:58:04.134Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:58:04.137Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:59:17.360Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:59:17.361Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:59:17.363Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:59:19.460Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:59:19.463Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T11:59:19.468Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T11:59:19.469Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T11:59:19.495Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T11:59:19.496Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T11:59:19.497Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T12:00:30.920Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T12:00:30.921Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:00:43.843Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:00:43.845Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:00:43.847Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:00:45.568Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:00:45.575Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:00:45.610Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:00:45.611Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:00:45.632Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:00:45.633Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:00:45.633Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T12:04:23.432Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T12:04:23.433Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T12:04:35.570Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T12:04:35.571Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:04:43.633Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:04:43.635Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:04:43.636Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:04:45.385Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:04:45.386Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:04:45.392Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:04:45.393Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:04:45.425Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:04:45.426Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:04:45.428Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:05:41.677Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:05:41.679Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:05:41.680Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:05:41.681Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:05:41.700Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:05:41.701Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:05:41.702Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T12:11:23.611Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T12:11:23.612Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:11:31.162Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:11:31.165Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:11:31.174Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:11:31.180Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"-666601778\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:11:31.218Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:11:31.219Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:11:31.221Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:16:10.740Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:16:10.747Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:16:10.779Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:16:10.781Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:16:10.796Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:16:10.801Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:16:10.802Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:17:51.272Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:17:51.282Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:17:51.282Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:17:51.302Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:17:51.303Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:17:51.311Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:17:51.314Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:17:51.343Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:17:51.343Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:17:51.354Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:22:47.076Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:22:47.078Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:22:47.081Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:23:57.464Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:23:57.465Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:23:57.470Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:23:57.471Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"c1rOOjCprt","level":"error","message":"beforeSave failed for Online for user c1rOOjCprt:\n  Input: {\"UsersHash\":\"-1967290591\",\"TurnUser\":\"c1rOOjCprt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:23:57.489Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:23:57.492Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:23:57.495Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T12:25:04.700Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T12:25:04.702Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T12:25:04.706Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T12:25:04.708Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:25:04.752Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:25:04.759Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:25:04.761Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:25:04.774Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:25:04.781Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:25:04.786Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:25:04.793Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:25:04.807Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:25:04.816Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:25:04.820Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:25:04.844Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:25:04.847Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:25:04.849Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T12:25:34.665Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T12:25:34.669Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:25:53.291Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:25:53.294Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:25:53.319Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:25:53.323Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:25:53.350Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:25:53.353Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:25:53.359Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T12:26:38.484Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T12:26:38.487Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:26:47.123Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:26:47.124Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:26:47.130Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:26:47.131Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:30:55.593Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:30:55.594Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:30:55.595Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:30:55.614Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:30:55.616Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:30:55.633Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:30:55.634Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:30:55.652Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:30:55.654Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:30:55.656Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:31:33.229Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:31:33.231Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:31:33.233Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:31:33.234Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:31:33.238Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:31:33.251Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:31:33.254Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:31:33.276Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:31:33.277Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:31:33.285Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:32:08.979Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:32:08.980Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:32:08.987Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:32:08.989Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"c1rOOjCprt","level":"error","message":"beforeSave failed for Online for user c1rOOjCprt:\n  Input: {\"UsersHash\":\"124804869\",\"TurnUser\":\"c1rOOjCprt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:32:09.009Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:32:09.011Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:32:09.016Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:35:39.941Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:35:39.942Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:35:39.943Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:35:39.944Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:35:39.948Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:35:39.948Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:35:39.951Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:35:39.961Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:35:39.962Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:35:39.962Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:36:45.353Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:36:45.355Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T12:36:45.371Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T12:36:45.372Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"-1915889628\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:36:45.381Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:36:45.386Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:36:45.387Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"Q0NNBSrQu8","level":"error","message":"beforeSave failed for Online for user Q0NNBSrQu8:\n  Input: {\"UsersHash\":\"-1915889628\",\"TurnUser\":\"Q0NNBSrQu8\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T12:36:45.396Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T12:36:45.400Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T12:36:45.402Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:16:49.270Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:16:49.281Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:16:49.293Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:16:49.297Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:16:49.306Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:16:49.313Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:16:49.315Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:16:49.370Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:16:49.371Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:16:49.372Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:17:06.191Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:17:06.192Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:17:06.193Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:17:06.194Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:17:06.196Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:17:06.197Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T19:19:46.631Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T19:19:46.633Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:20:05.843Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:20:05.844Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:20:05.846Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:20:05.848Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:20:05.887Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:20:05.896Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:20:05.897Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:20:44.016Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:20:44.018Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:20:44.033Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:20:44.036Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:20:44.062Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:20:44.063Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:20:44.064Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:11.987Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:11.989Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:11.990Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:11.991Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:21:11.995Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:21:11.996Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:21:11.997Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:21:12.011Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:21:12.012Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:21:12.013Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.246Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.249Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.252Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.257Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:21:25.262Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:21:25.264Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.269Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.269Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.286Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.289Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.296Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.298Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.306Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.307Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.314Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.315Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.319Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.321Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:21:25.323Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:21:25.324Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:42.723Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:42.725Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:42.726Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:42.727Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:24:42.762Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:24:42.763Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:24:42.765Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:24:54.220Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:24:54.223Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:54.225Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:54.228Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:54.238Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:54.243Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:54.251Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:54.252Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:54.254Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:54.256Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:54.273Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:54.287Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:54.292Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:54.304Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:24:56.444Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:24:56.446Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:29:13.683Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:29:13.684Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:29:13.692Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:29:13.694Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:29:13.854Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:29:13.856Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:29:13.858Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:29:22.255Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:29:22.256Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:29:22.302Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:29:22.305Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T19:34:30.569Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:47.405Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:47.407Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:47.415Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:47.416Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:35:47.447Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:35:47.448Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:35:47.449Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:35:54.080Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:35:54.086Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.116Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.118Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.121Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.125Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.129Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.131Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.136Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.138Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.146Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.147Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.161Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.162Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.167Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.175Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:35:54.179Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:35:54.181Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:42:16.810Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:42:16.813Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:42:16.824Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:42:16.825Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:42:16.857Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:42:16.858Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:42:16.859Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:42:16.860Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:42:16.884Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:42:16.885Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:42:16.886Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:42:16.889Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:42:16.890Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:42:16.891Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:42:26.415Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:42:26.417Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:42:26.419Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:42:26.420Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:42:26.421Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:42:26.422Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:42:26.428Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:42:26.429Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:42:26.430Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:42:26.435Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:42:26.443Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:42:26.444Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:42:26.445Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:42:26.446Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T19:47:13.995Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T19:47:13.997Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:34.372Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:34.374Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:34.382Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:34.383Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:34.429Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:34.431Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:34.437Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:34.439Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:47:34.460Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:47:34.461Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:47:34.462Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:47:34.465Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:47:34.466Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:47:34.467Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:47:44.074Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:47:44.076Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:44.077Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:44.079Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:44.134Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:44.136Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:47:44.137Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:47:44.138Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-03T19:51:00.024Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:17.619Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:17.620Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:17.622Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:17.624Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:51:17.640Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:51:17.641Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:51:17.642Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:34.272Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:34.274Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:34.327Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:34.329Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:34.332Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:34.337Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:34.339Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:34.342Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:51:34.347Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:51:34.358Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:50.443Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:50.445Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:50.456Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:50.457Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T19:54:50.484Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T19:54:50.484Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T19:54:50.485Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:54:58.825Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:54:58.827Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:54:58.846Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:54:58.848Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T19:54:58.850Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T19:54:58.852Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:58.857Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:58.858Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:58.866Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:58.868Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:58.878Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:58.880Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:58.882Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:58.883Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:58.919Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:58.922Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T19:54:58.923Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T19:54:58.924Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T20:00:03.462Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T20:00:03.466Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T20:00:03.467Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T20:00:03.469Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:03.501Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:03.502Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:03.509Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:03.515Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T20:00:03.554Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T20:00:03.555Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T20:00:03.557Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T20:00:03.559Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T20:00:03.561Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T20:00:03.566Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T20:00:12.081Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T20:00:12.082Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:12.097Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:12.099Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:12.108Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:12.110Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:12.115Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:12.117Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:12.130Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:12.132Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:00:12.134Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:00:12.136Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:05.595Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:05.596Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:05.597Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:05.600Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.393Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.395Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.427Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.428Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.443Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.444Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.446Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.448Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.450Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.455Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.457Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.462Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.465Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.467Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.483Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.485Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:13.486Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:13.488Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T20:11:16.340Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T20:11:16.341Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.347Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.348Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.349Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.351Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.381Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.382Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.389Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.391Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.395Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.397Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.398Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.399Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.400Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.401Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T20:11:16.404Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T20:11:16.405Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:01:40.972Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:01:40.973Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:01:40.975Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:01:40.976Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:01:41.008Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:01:41.009Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:01:41.010Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:02:37.459Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:02:37.460Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:02:37.461Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:02:37.462Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:05:52.279Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:05:52.280Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:05:52.281Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:05:52.282Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:05:52.305Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:05:52.306Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:05:52.306Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:12:37.345Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:12:37.346Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:12:37.348Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:12:37.350Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:12:37.367Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:12:37.368Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:12:37.369Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:12:37.371Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:12:37.372Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:12:37.372Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T22:13:07.568Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T22:13:07.568Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:13:22.506Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:13:22.508Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:13:22.510Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:13:22.510Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:13:22.524Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:13:22.526Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:13:22.527Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T22:15:03.051Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T22:15:03.053Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-03T22:15:11.251Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-03T22:15:11.253Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-03T22:15:11.254Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-03T22:15:17.960Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-03T22:15:20.639Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-03T22:15:30.687Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-03T22:15:41.821Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-03T22:15:41.822Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T22:15:56.659Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T22:15:56.660Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-03T22:15:56.662Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-03T22:15:56.665Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:15:56.686Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:15:56.687Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:15:56.690Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:15:56.691Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:15:56.705Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:15:56.705Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:15:56.706Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:15:56.707Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:15:56.707Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:15:56.708Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:19:03.248Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:19:03.249Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:19:03.251Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:19:03.251Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-03T22:21:05.066Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-03T22:21:05.066Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-03T22:21:05.067Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-03T22:21:12.216Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-03T22:21:15.516Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:21:40.156Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:21:40.159Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:21:40.161Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:21:40.165Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:25:26.682Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:25:26.683Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-03T22:25:26.686Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-03T22:25:26.687Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-03T22:25:26.699Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-03T22:25:26.700Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-03T22:25:26.700Z"}

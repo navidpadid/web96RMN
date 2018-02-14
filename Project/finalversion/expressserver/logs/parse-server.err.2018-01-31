@@ -1,0 +1,101 @@
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T11:53:20.429Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T11:53:20.431Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T11:53:20.443Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T11:53:20.444Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T11:53:20.445Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T11:53:20.446Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:07:20.123Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:07:20.128Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:07:20.131Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:07:50.466Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:07:50.467Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:07:50.474Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:08:14.132Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:08:14.135Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:08:14.136Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:09:01.642Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:09:01.643Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:09:01.643Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-01-31T12:12:03.262Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:14:01.175Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:14:01.184Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:14:01.186Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:14:16.167Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:14:16.172Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:14:16.174Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:30:35.891Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:30:35.892Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:30:35.894Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T12:36:41.223Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T12:36:41.224Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T12:36:41.226Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T14:31:14.665Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T14:31:14.666Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T14:31:14.666Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T14:37:37.262Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T14:37:37.265Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T14:37:37.274Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T14:37:37.281Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T14:42:38.773Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T14:42:38.773Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T14:42:38.775Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T14:42:51.223Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T14:42:51.224Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T14:42:51.224Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T14:46:25.929Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T14:46:25.931Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T14:46:25.933Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T14:46:25.936Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T14:52:09.461Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T14:52:09.463Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T14:52:09.464Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T15:04:39.457Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T15:04:39.460Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T15:04:39.462Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T15:14:49.618Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T15:14:49.619Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T15:14:49.621Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T15:15:43.460Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T15:15:43.460Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T15:15:43.461Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T15:21:08.105Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T15:21:08.105Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T15:21:08.106Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T15:23:37.654Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T15:23:37.662Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T15:23:37.664Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T15:24:18.458Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T15:24:18.460Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T15:24:18.462Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T15:24:18.463Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T15:25:46.958Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T15:25:46.960Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T15:25:46.960Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T15:25:46.964Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:21:17.004Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:21:17.012Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:21:17.019Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:21:17.022Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T17:24:31.418Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T17:24:31.420Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T17:24:31.421Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:25:07.229Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:25:07.231Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:25:07.235Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:25:07.239Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T17:25:46.850Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T17:25:46.851Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T17:25:46.852Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:26:05.842Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:26:05.853Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:26:05.871Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:26:05.877Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Waitingroom for user zan9YvySnt:\n  Input: {\"Userid\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-01-31T17:27:07.703Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-01-31T17:27:07.706Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-01-31T17:27:07.707Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:28:33.386Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:28:33.386Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-31T17:28:33.390Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-31T17:28:33.391Z"}
+{"error":{"code":111,"message":"schema mismatch for Online.UsersHash; expected String but got Number"},"level":"error","message":"Error generating response. ParseError {\n  code: 111,\n  message: 'schema mismatch for Online.UsersHash; expected String but got Number' }","timestamp":"2018-01-31T17:28:33.711Z"}
+{"code":111,"message":"schema mismatch for Online.UsersHash; expected String but got Number","level":"error","timestamp":"2018-01-31T17:28:33.714Z"}

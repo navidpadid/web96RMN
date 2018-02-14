@@ -1,0 +1,25 @@
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-11T14:26:44.168Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-11T14:26:44.170Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-11T15:05:04.517Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-11T15:05:04.518Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-11T15:05:04.519Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Leaderboards for user zan9YvySnt:\n  Input: {\"Country\":\"iran\",\"Username\":\"login\",\"Score\":2880}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-11T15:05:18.810Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-11T15:05:18.813Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-11T15:05:18.813Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Leaderboards for user 0M7ia4Citr:\n  Input: {\"Country\":\"iran\",\"Username\":\"admin\",\"Score\":15430}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-11T15:05:18.833Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-11T15:05:18.834Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-11T15:05:18.835Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-11T15:05:18.852Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-11T15:05:18.852Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-11T15:05:18.854Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-11T15:05:18.855Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"level":"error","message":"beforeSave failed for Leaderboards for user undefined:\n  Input: {\"Country\":\"iran\",\"Username\":\"login\",\"Score\":5560}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-11T15:05:18.879Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-11T15:05:18.883Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-11T15:05:18.883Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"level":"error","message":"beforeSave failed for Leaderboards for user undefined:\n  Input: {\"Country\":\"iran\",\"Username\":\"admin\",\"Score\":30820}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-11T15:05:18.898Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-11T15:05:18.900Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-11T15:05:18.905Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-11T15:05:18.919Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-11T15:05:18.920Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-11T15:05:19.084Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-11T15:05:19.089Z"}

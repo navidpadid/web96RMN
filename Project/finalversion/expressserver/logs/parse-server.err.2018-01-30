@@ -1,0 +1,8 @@
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-01-30T17:05:30.523Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-01-30T17:05:30.524Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-30T18:49:44.136Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-30T18:49:44.142Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-30T18:49:44.150Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-30T18:49:44.151Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-01-30T18:49:44.154Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-01-30T18:49:44.156Z"}

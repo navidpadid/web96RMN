@@ -1,0 +1,368 @@
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-02T00:13:19.458Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-02T00:13:19.459Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-02T00:41:18.763Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-02T00:41:18.764Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-02T01:23:18.064Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"H5CxG9XySE","level":"error","message":"beforeSave failed for Leaderboards for user H5CxG9XySE:\n  Input: {\"Country\":\"unknown\",\"Username\":\"navid3\",\"Score\":150}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T01:23:54.549Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T01:23:54.563Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T01:23:54.565Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"H5CxG9XySE","level":"error","message":"beforeSave failed for Leaderboards for user H5CxG9XySE:\n  Input: {\"Country\":\"unknown\",\"Username\":\"navid3\",\"Score\":200}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T01:24:03.379Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T01:24:03.382Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T01:24:03.383Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"RlHzUqQ3PH","level":"error","message":"beforeSave failed for Leaderboards for user RlHzUqQ3PH:\n  Input: {\"Country\":\"unknown\",\"Username\":\"navid4\",\"Score\":40}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T01:24:30.066Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T01:24:30.071Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T01:24:30.073Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"H5CxG9XySE","level":"error","message":"beforeSave failed for Online for user H5CxG9XySE:\n  Input: {\"UsersHash\":\"24816529\",\"TurnUser\":\"nAIybAapUF\",\"createdAt\":\"2018-02-02T01:27:09.172Z\",\"updatedAt\":\"2018-02-02T01:27:09.172Z\",\"POneLast\":0,\"objectId\":\"LjFRYmMpBP\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T01:27:12.535Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T01:27:12.537Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T01:27:12.538Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Leaderboards for user oG4uyWZmW4:\n  Input: {\"Country\":\"unknown\",\"Username\":\"celinejan\",\"Score\":200}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T11:33:57.069Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T11:33:57.079Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T11:33:57.081Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Leaderboards for user oG4uyWZmW4:\n  Input: {\"Country\":\"unknown\",\"Username\":\"celinejan\",\"Score\":300}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T11:34:05.308Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T11:34:05.313Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T11:34:05.314Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Leaderboards for user oG4uyWZmW4:\n  Input: {\"Country\":\"unknown\",\"Username\":\"celinejan\",\"Score\":320}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T11:34:13.001Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T11:34:13.004Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T11:34:13.005Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Waitingroom for user oG4uyWZmW4:\n  Input: {\"Userid\":\"oG4uyWZmW4\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T11:41:30.023Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T11:41:30.024Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T11:41:30.025Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Waitingroom for user oG4uyWZmW4:\n  Input: {\"Userid\":\"oG4uyWZmW4\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T11:41:47.304Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T11:41:47.305Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T11:41:47.305Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Waitingroom for user oG4uyWZmW4:\n  Input: {\"Userid\":\"oG4uyWZmW4\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T11:48:18.432Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T11:48:18.433Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T11:48:18.433Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Waitingroom for user oG4uyWZmW4:\n  Input: {\"Userid\":\"oG4uyWZmW4\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T11:55:59.580Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T11:55:59.581Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T11:55:59.582Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Waitingroom for user oG4uyWZmW4:\n  Input: {\"Userid\":\"oG4uyWZmW4\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T11:57:11.126Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T11:57:11.129Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T11:57:11.130Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Waitingroom for user oG4uyWZmW4:\n  Input: {\"Userid\":\"oG4uyWZmW4\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T12:05:20.591Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T12:05:20.595Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T12:05:20.596Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"oG4uyWZmW4","level":"error","message":"beforeSave failed for Leaderboards for user oG4uyWZmW4:\n  Input: {\"Country\":\"unknown\",\"Username\":\"celinejan\",\"Score\":420}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T12:38:28.173Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T12:38:28.178Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T12:38:28.179Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Leaderboards for user 0M7ia4Citr:\n  Input: {\"Country\":\"iran\",\"Username\":\"admin\",\"Score\":300}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T13:44:46.650Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T13:44:46.664Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T13:44:46.668Z"}
+{"className":"Leaderboards","triggerType":"beforeSave","error":{"code":141,"message":"object updated"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Leaderboards for user 0M7ia4Citr:\n  Input: {\"Country\":\"iran\",\"Username\":\"admin\",\"Score\":400}\n  Error: {\"code\":141,\"message\":\"object updated\"}","timestamp":"2018-02-02T13:44:58.114Z"}
+{"error":{"code":141,"message":"object updated"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'object updated' }","timestamp":"2018-02-02T13:44:58.117Z"}
+{"code":141,"message":"object updated","level":"error","timestamp":"2018-02-02T13:44:58.120Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:52:48.571Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:52:48.574Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:52:48.582Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:52:48.584Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:52:48.613Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:52:48.614Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:52:48.616Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\",\"createdAt\":\"2018-02-02T13:52:48.519Z\",\"updatedAt\":\"2018-02-02T13:52:48.519Z\",\"POneLast\":0,\"objectId\":\"OQqcxKIWAG\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:52:53.455Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:52:53.456Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:52:53.457Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:54:01.917Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:54:01.918Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-02-02T13:54:01.923Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-02-02T13:54:01.924Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:54:01.942Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:54:01.943Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:54:01.945Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:54:01.962Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:54:01.963Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:54:01.964Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:54:34.951Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:54:34.953Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:54:34.957Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:54:34.960Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:54:34.988Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:54:34.990Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:54:34.991Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:54:34.998Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:54:35.001Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:54:35.003Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:55:27.812Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:55:27.814Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:55:27.820Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:55:27.821Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:56:19.020Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:56:19.022Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T13:56:19.025Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T13:56:19.027Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:59:37.452Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:59:37.453Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:59:37.454Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T13:59:38.494Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T13:59:38.495Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T13:59:38.496Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T14:01:27.853Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T14:01:27.853Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T14:01:27.855Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T14:01:27.856Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:01:27.866Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:01:27.866Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:01:27.867Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:12:01.557Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:12:01.559Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:12:01.560Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:19:25.506Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:19:25.508Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:19:25.511Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T14:20:27.795Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T14:20:27.796Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T14:20:27.803Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T14:20:27.805Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:20:27.836Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:20:27.837Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:20:27.841Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\",\"createdAt\":\"2018-02-02T14:20:27.770Z\",\"updatedAt\":\"2018-02-02T14:20:27.770Z\",\"POneLast\":0,\"objectId\":\"yju6el9jsx\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:20:31.081Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:20:31.081Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:20:31.082Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T14:22:58.988Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T14:22:58.989Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T14:22:59.001Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T14:22:59.002Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:23:33.010Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:23:33.010Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:23:33.011Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:23:34.271Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:23:34.272Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:23:34.273Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:27:36.302Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:27:36.307Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:27:36.309Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:33:03.352Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:33:03.353Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:33:03.356Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:33:46.542Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:33:46.544Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:33:46.552Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:37:12.976Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:37:12.977Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:37:12.979Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:38:26.394Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:38:26.396Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:38:26.398Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:47:23.200Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:47:23.201Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:47:23.201Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:57:37.697Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:57:37.698Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:57:37.700Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\",\"createdAt\":\"2018-02-02T14:57:36.649Z\",\"updatedAt\":\"2018-02-02T14:57:36.649Z\",\"POneLast\":0,\"objectId\":\"xrnLengyE3\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:57:40.241Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:57:40.243Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:57:40.245Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\",\"createdAt\":\"2018-02-02T14:57:36.649Z\",\"updatedAt\":\"2018-02-02T14:57:36.649Z\",\"POneLast\":0,\"objectId\":\"xrnLengyE3\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:57:43.776Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:57:43.778Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:57:43.783Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\",\"createdAt\":\"2018-02-02T14:57:36.649Z\",\"updatedAt\":\"2018-02-02T14:57:36.649Z\",\"POneLast\":0,\"objectId\":\"xrnLengyE3\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T14:57:46.877Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T14:57:46.879Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T14:57:46.880Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:00:36.686Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:00:36.687Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:00:36.688Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\",\"createdAt\":\"2018-02-02T15:00:35.590Z\",\"updatedAt\":\"2018-02-02T15:00:35.590Z\",\"POneLast\":0,\"objectId\":\"TUkd38C1LK\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:00:39.710Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:00:39.712Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:00:39.713Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\",\"createdAt\":\"2018-02-02T15:00:35.590Z\",\"updatedAt\":\"2018-02-02T15:00:35.590Z\",\"POneLast\":0,\"objectId\":\"TUkd38C1LK\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:00:43.280Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:00:43.282Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:00:43.283Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:01:29.514Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:01:29.520Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:01:29.522Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:03:12.134Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:03:12.135Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:03:12.136Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:04:50.613Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:04:50.614Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:04:50.617Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:05:57.571Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:05:57.572Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:05:57.573Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-02-02T15:11:12.758Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-02-02T15:11:12.759Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:11:32.560Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:11:32.561Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:11:32.562Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:28:37.968Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:28:37.969Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:28:37.969Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\",\"createdAt\":\"2018-02-02T15:28:36.795Z\",\"updatedAt\":\"2018-02-02T15:28:36.795Z\",\"latestSquares\":[\"X\",null,null,null,null,null,null,null,null],\"objectId\":\"xhoRTfHrrG\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:28:40.623Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:28:40.625Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:28:40.626Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:30:24.143Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:30:24.143Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:30:24.144Z"}
+{"error":{"code":111,"message":"schema mismatch for Online.latestSquares; expected Object but got Array"},"level":"error","message":"Error generating response. ParseError {\n  code: 111,\n  message: 'schema mismatch for Online.latestSquares; expected Object but got Array' }","timestamp":"2018-02-02T15:30:26.391Z"}
+{"code":111,"message":"schema mismatch for Online.latestSquares; expected Object but got Array","level":"error","timestamp":"2018-02-02T15:30:26.394Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:31:48.102Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:31:48.104Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:31:48.105Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:34:37.598Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:34:37.599Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:34:37.600Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:41:25.941Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:41:25.944Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:41:25.944Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:49:37.733Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:49:37.735Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:49:37.743Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:49:37.744Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:49:37.770Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:49:37.772Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:49:37.773Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:53:02.327Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:53:02.331Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:53:02.333Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:53:02.335Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:54:59.077Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:54:59.078Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:54:59.079Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:54:59.111Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:54:59.112Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:54:59.112Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:54:59.113Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:54:59.150Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:54:59.154Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:54:59.155Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:58:05.655Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:58:05.656Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T15:58:05.674Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T15:58:05.675Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T15:58:05.689Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T15:58:05.690Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T15:58:05.691Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:01:49.590Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:01:49.592Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:01:49.593Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:01:49.594Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:01:49.603Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:01:49.604Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:01:49.605Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:05:32.740Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:05:32.741Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:05:32.742Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:05:32.743Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:05:32.762Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:05:32.763Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:05:32.764Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:06:01.229Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:06:01.229Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:06:01.230Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:06:01.231Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:06:01.235Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:06:01.235Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:06:01.236Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:06:01.247Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:06:01.248Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:06:01.249Z"}
+{"className":"Waitingroom","triggerType":"beforeSave","error":{"code":141,"message":"user already waiting"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Waitingroom for user 0M7ia4Citr:\n  Input: {\"Userid\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already waiting\"}","timestamp":"2018-02-02T16:09:21.419Z"}
+{"error":{"code":141,"message":"user already waiting"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already waiting' }","timestamp":"2018-02-02T16:09:21.420Z"}
+{"code":141,"message":"user already waiting","level":"error","timestamp":"2018-02-02T16:09:21.423Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-02T16:09:37.790Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-02T16:09:43.194Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-02-02T16:09:46.691Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:10:53.424Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:10:53.426Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:10:53.435Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:10:53.435Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:10:53.448Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:10:53.449Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:10:53.452Z"}
+{"level":"error","message":"Can not find subscription with clientId 25f3c11f-0c44-47bc-ac10-6f3600368a06 subscriptionId 1","timestamp":"2018-02-02T16:11:01.653Z"}
+{"level":"error","message":"Can not find subscription with clientId 6961c4dc-8312-45ac-957b-cb2bec2226c9 subscriptionId 1","timestamp":"2018-02-02T16:11:01.665Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:21:44.983Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:21:44.985Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:21:44.987Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:21:44.988Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:21:44.992Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:21:44.993Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:21:44.993Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:21:44.998Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:21:44.999Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:21:45.000Z"}
+{"level":"error","message":"Can not find subscription with clientId c3c2a3a6-08c7-49b7-8156-0da2af46637f subscriptionId 1","timestamp":"2018-02-02T16:22:19.136Z"}
+{"level":"error","message":"Can not find subscription with clientId 656f8ddb-6f5f-49f9-8c27-9d1c9c0890b2 subscriptionId 1","timestamp":"2018-02-02T16:22:19.139Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:23:44.779Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:23:44.780Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:23:44.781Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:23:44.798Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:23:44.799Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:23:44.804Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:23:44.805Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:23:44.817Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:23:44.819Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:23:44.820Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:25:14.375Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:25:14.377Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:25:14.378Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:25:14.380Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:25:14.385Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:25:14.385Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:25:14.386Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:25:14.390Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:25:14.390Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:25:14.391Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:40.504Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:40.556Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:40.634Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:40.749Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:40.854Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:40.898Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:41.164Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:41.223Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:41.353Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:25:44.115Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:30:11.355Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:31:11.637Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:31:11.638Z"}
+{"error":{"code":101,"message":"Object not found for delete."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found for delete.' }","timestamp":"2018-02-02T16:31:11.639Z"}
+{"code":101,"message":"Object not found for delete.","level":"error","timestamp":"2018-02-02T16:31:11.641Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"0M7ia4Citr","level":"error","message":"beforeSave failed for Online for user 0M7ia4Citr:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"0M7ia4Citr\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:31:11.652Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:31:11.652Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:31:11.653Z"}
+{"className":"Online","triggerType":"beforeSave","error":{"code":141,"message":"user already online"},"user":"zan9YvySnt","level":"error","message":"beforeSave failed for Online for user zan9YvySnt:\n  Input: {\"UsersHash\":\"132742729\",\"TurnUser\":\"zan9YvySnt\"}\n  Error: {\"code\":141,\"message\":\"user already online\"}","timestamp":"2018-02-02T16:31:11.660Z"}
+{"error":{"code":141,"message":"user already online"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'user already online' }","timestamp":"2018-02-02T16:31:11.661Z"}
+{"code":141,"message":"user already online","level":"error","timestamp":"2018-02-02T16:31:11.663Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.384Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.409Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.466Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.546Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.590Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.630Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.761Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.796Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.856Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.877Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:27.929Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:28.190Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:28.214Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:28.241Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:28.932Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:28.955Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:30.008Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:31.666Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.072Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.146Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.180Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.215Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.275Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.303Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.322Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.354Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.358Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.391Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.405Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.423Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.457Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.519Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.559Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.659Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:45.975Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:46.002Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:46.038Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:46.087Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:46.583Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T16:31:48.339Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T17:33:26.826Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-02T17:33:26.828Z"}
