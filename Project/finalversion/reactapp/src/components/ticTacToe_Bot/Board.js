@@ -10,7 +10,7 @@ class Board extends Component {
             xIsNext: true
         };
         Parse.initialize("myAppId123456", '1xoWtDkxw8oZvX3bzhdTuHU7KZB8SGZD9jWQ2V9p');
-        Parse.serverURL = 'http://192.168.200.125:8030/wp';
+        Parse.serverURL = 'http://localhost:8030/wp';
         this.handleClick = this.handleClick.bind(this);
     }
     componentDidUpdate(){
